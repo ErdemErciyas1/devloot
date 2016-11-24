@@ -1,0 +1,79 @@
+body {
+	
+	background-image: url("bg.png");
+	background-repeat:repeat-x ;
+
+
+}
+
+
+
+
+.Titel{
+	background-image: url("header.jpg");
+	height: 272px;
+	width: 800px;
+	margin-left: 260px;
+	margin-top:-54px;
+
+
+}
+
+
+.tekst {
+	margin-left: 260px;
+	max-width: 760px;
+	font-family: sans-serif;
+	float:center;
+	font-family: sans-serif;
+	margin-top: -40px;
+	background:white;
+	padding:20px;
+	
+}
+
+.vloottwo {
+	width: 300px;
+	float: right;
+	margin-left: 20px;
+
+
+
+}
+
+.vlootone {
+
+	margin-top: 0px;
+	margin-left: 0px;
+	float: left;
+	width:300px;
+	margin-right: 20px;
+}
+
+
+
+li {
+	font-family: sans-serif;
+	display: inline;
+	margin-left: 20px;
+	padding: 1px;
+	color:white;
+}
+
+
+.vlootthree{
+	float:left;
+	width:350px;
+	margin-right: 20px;
+
+	
+}
+
+.hoofdtwee{
+	margin-left: 260px;
+	background: white;
+	margin-top: -20px;
+}
+
+
+

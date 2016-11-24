@@ -1,0 +1,83 @@
+body {
+	
+	background-image: url("bg.png");
+	background-repeat:repeat-x ;
+}	
+
+.container {
+	margin-left: auto;
+	margin-right: auto;
+	width: 750px;
+	margin-top: 20px;
+}
+
+.Titel{
+	background-image: url("header.jpg");
+	height: 260px;
+	width: 750px;
+	margin-top: -20px;
+}
+
+
+.tekst {
+	max-width: 730px;
+	font-family: sans-serif;
+	float:center;
+	padding: 20px;
+	background: white;	
+	margin-top: -40px;
+}
+
+.vloottwo {
+	width: 200px;
+	float: left;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 20px;
+	margin-bottom: 10px;
+}
+
+.vlootone {
+	float: left;
+	width:250px;
+	margin-right: 20px;
+	margin-bottom: 10px;
+
+}
+
+li {
+	font-family: sans-serif;
+	display: inline;
+	margin: 30px;
+	margin-left: -20px;
+	padding: 10px;
+	color: white;
+
+
+}
+
+
+
+
+.vlootthree{
+	float:right;
+	width:200px;
+	margin-right: 20px;
+	
+
+
+	
+}
+
+.hoofdtwee{
+	margin-left: 0px;
+	background: white;
+	margin-top: -20px;
+	
+}
+
+
+.top-menu{
+	margin: 0px;
+	margin-top: 120px;
+	}

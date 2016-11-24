@@ -1,0 +1,64 @@
+body {
+	background-image: url("bg.png");
+	margin-top: 30px;
+
+}
+
+
+li {
+	font-family: sans-serif;
+	display: inline;
+	margin:  	10px;
+	width: 50%;
+	
+}
+
+.Text {
+	margin-left: 260px;
+	max-width: 800px;
+	font-family: sans-serif;
+	float:center;
+	background-color:white;
+	font-family: sans-serif;	
+	padding: 10px;
+}
+
+.Water{
+	margin-left: 280px;
+	font-family: sans-serif;
+}
+
+.header{
+	margin-left: 270px;
+	width:770px;
+
+}
+
+.Titel{
+	background-image: url("header.jpg");
+	height: 272px;
+	width: 800px;
+	margin-left: 260px;
+	margin-top:-54px;
+
+}
+
+.top-menu{
+	color:white;
+	margin-left: -100px;
+	color: white;
+	margin-top: 100px;
+	margin: 30px;
+	margin-top: 100px;	
+}
+
+.tekst{
+	margin-top: -200px;
+	margin-left: 210px;
+
+
+
+
+
+
+
